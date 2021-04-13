@@ -20,7 +20,10 @@
 // }  
 // console.log("OK , YOU QUIT THE APP!!");
 
-// improved app
+
+
+
+// improved todo app with delete option
 var input = prompt("what would you like to do ?");
 var todo = ["buy a new turtle"];
 while (input !== "quit")
